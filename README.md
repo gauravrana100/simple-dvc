@@ -1,3 +1,6 @@
+git link ==> https://github.com/c17hawke/simple-dvc-demo
+video link ==> https://www.youtube.com/watch?v=n4sz9cG_B7k
+
 create env 
 
 ```bash
