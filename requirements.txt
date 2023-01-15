@@ -8,3 +8,5 @@ scikit-learn
 pandas
 pytest
 tox
+flake8==4.0.1
+black
